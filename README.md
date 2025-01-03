@@ -23,9 +23,9 @@
    />
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" alt="Javascript logo" 
    />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" alt="html logo" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" alt="css logo" 
    />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50" alt="css logo" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50" alt="html logo" 
    />
 <br>
 <h3>GitHub Stats</h3> <br>
