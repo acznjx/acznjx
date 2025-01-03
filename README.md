@@ -23,7 +23,8 @@
    /> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="50" alt="spring logo" 
    />
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" alt="Javascript logo" 
+   />
 <br>
 <h3>GitHub Stats</h3> <br>
 
