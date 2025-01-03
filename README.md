@@ -17,13 +17,15 @@
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" alt="java logo" 
    />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" 
-   />
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" height="50" alt="postgresql logo" 
    /> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="50" alt="spring logo" 
    />
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" alt="Javascript logo" 
+   />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" alt="html logo" 
+   />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50" alt="css logo" 
    />
 <br>
 <h3>GitHub Stats</h3> <br>
