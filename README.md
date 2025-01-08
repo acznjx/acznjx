@@ -30,8 +30,8 @@
 <br>
 <h3>GitHub Stats</h3> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acznjx&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acznjx&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acznjx&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acznjx&layout=compact)
 <br>
    
 <br>
