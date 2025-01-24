@@ -5,7 +5,7 @@
 
 <br><br><br><br><br><br>
 
-<p align="left">📎 Cursando Ciência da Computação na Cesuca, busco oportunidades na área de desenvolvimento de software/WEB. Tenho habilidades em Java, Spring, CSS e HTML, além de inglês intermediário, adquirido de forma autodidata. </p>
+<p align="left"> Estudante de Ciência da Computação na Cesuca, com foco no desenvolvimento de software e na evolução contínua das minhas habilidades técnicas. Tenho experiência com tecnologias como Java, Spring, HTML, CSS e JavaScript. Além disso, possuo inglês intermediário, aprendido de forma autodidata. Meu objetivo é aplicar e aprofundar meus conhecimentos em projetos desafiadores e impactantes.Estudante . </p>
 
 
 <br>
