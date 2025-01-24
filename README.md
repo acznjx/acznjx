@@ -1,9 +1,8 @@
  <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=696969"/>
-<img align="right" alt="" height="290px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
+<img align="right" alt="" height="260px" src="https://i.pinimg.com/originals/2c/1d/39/2c1d390817d70dd325ff24f5bdfc2e87.gif">
 
-<img align="left" alt="" height="140px" src="https://github.com/acznjx/acznjx/blob/main/png.png">
 
-<br><br><br><br><br><br>
+<br><br>
 
 <p align="left"> Estudante de Ciência da Computação na Cesuca, com foco no desenvolvimento de software e na evolução contínua das minhas habilidades técnicas. Tenho experiência com tecnologias como Java, Spring, HTML, CSS e JavaScript. Além disso, possuo inglês intermediário, aprendido de forma autodidata. Meu objetivo é aplicar e aprofundar meus conhecimentos em projetos desafiadores e impactantes.Estudante . </p>
 
