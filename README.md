@@ -4,7 +4,8 @@
 
 <br><br>
 
-<p align="left"> Estudante de Ciência da Computação na Cesuca, com foco no desenvolvimento de software e na evolução contínua das minhas habilidades técnicas. Tenho experiência com tecnologias como Java, Spring, HTML, CSS e JavaScript. Além disso, possuo inglês intermediário, aprendido de forma autodidata. Meu objetivo é aplicar e aprofundar meus conhecimentos em projetos desafiadores e impactantes.Estudante . </p>
+<p align="left"> Estudante de Ciência da Computação na Cesuca, com foco no desenvolvimento de software e na evolução contínua das minhas habilidades técnicas. <br><br>
+ Tenho experiência com tecnologias como Java, Spring, HTML, CSS e JavaScript. Além disso, possuo inglês intermediário, aprendido de forma autodidata. Meu objetivo é aplicar e aprofundar meus conhecimentos em projetos desafiadores e impactantes. </p>
 
 
 <br>
