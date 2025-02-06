@@ -30,9 +30,7 @@
 <br>
 <h3>GitHub Stats</h3> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acznjx&show_icons=true&bg_color=1C1C1C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acznjx&layout=compact&bg_color=1C1C1C)
-<br>
+
    
 <br>
  <h3>  Connect with me ⬎ </h3>  
