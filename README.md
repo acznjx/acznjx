@@ -17,10 +17,11 @@
   <h2>🧰 Tech Stack</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="45" alt="TypeScript" title="TypeScript"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="45" alt="React" title="React"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" title="TailwindCSS"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="45" alt="React" title="React"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="45" alt="Next.js" title="Next.js"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" title="TailwindCSS"/>
+
 </div>
 
 <br><br><br>
