@@ -20,8 +20,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="45" alt="React" title="React"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" title="TailwindCSS"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="45" alt="NodeJS" title="NodeJS"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="45" alt="Next.js" title="Next.js"/>
 </div>
 
