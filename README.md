@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=696969"/>
 </div>
 
-<img align="right" alt="Coding GIF" height="430px" src="https://github.com/acznjx/acznjx/blob/main/github.png" />
+<img align="right" alt="Coding GIF" height="390px" src="https://github.com/acznjx/acznjx/blob/main/github.png" />
 
 <p align="left">
 💻 Focused on TypeScript development, with a strong interest in software engineering.
