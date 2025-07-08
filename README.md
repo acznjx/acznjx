@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=696969"/>
 </div>
 
-<img align="right" alt="Coding GIF" height="380px" src="https://github.com/acznjx/acznjx/blob/main/github.jpg?raw=true" />
+<img align="right" alt="Coding GIF" height="430px" src="https://github.com/acznjx/acznjx/blob/main/github.png" />
 
 <p align="left">
 💻 Focused on TypeScript development, with a strong interest in software engineering.
@@ -44,4 +44,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<div align="left" style="margin-top: 40px;">
+  <img src="https://github.com/acznjx/acznjx/blob/main/madara-gif.gif?raw=true" alt="Madara GIF" width="400" />
+</div>
 
